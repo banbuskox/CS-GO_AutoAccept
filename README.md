@@ -12,4 +12,4 @@ Requirements :
 
 If you are using other language than English you need to make remake of button screenshots (highlighted button and not highlighted button) (accept_image2.png, accept_image.png)
 
-If you are Polish I have screenshots from my Polish friend : (They are in .zip)
+If you are Polish I have screenshots from my Polish friend : [here](https://github.com/banbuskox/CS-GO_AutoAccept/tree/main/CSGO-AutoAccept/Polish%20Buttons)
